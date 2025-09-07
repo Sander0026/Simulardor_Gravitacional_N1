@@ -1,8 +1,8 @@
 namespace Simulardor_Gravitacional_N1
 {
-    public partial class Form1 : Form
+    public partial class Tela_Universo : Form
     {
-        public Form1()
+        public Tela_Universo()
         {
             InitializeComponent();
         }

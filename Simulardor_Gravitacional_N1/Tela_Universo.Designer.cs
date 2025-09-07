@@ -1,6 +1,6 @@
 ﻿namespace Simulardor_Gravitacional_N1
 {
-    partial class Form1
+    partial class Tela_Universo
     {
         /// <summary>
         ///  Required designer variable.
